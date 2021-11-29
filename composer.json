@@ -1,7 +1,7 @@
 {
     "name": "zyan/fanyi",
     "keywords": ["fanyi", "翻译"],
-    "description": "翻译",
+    "description": "一个支持各大平台的翻译组件",
     "license": "MIT",
     "authors": [
         {
