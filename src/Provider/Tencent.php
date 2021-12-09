@@ -4,7 +4,9 @@
 namespace Zyan\Fanyi\Provider;
 
 
-class Tencent
+use Zyan\Fanyi\BaseClient;
+
+class Tencent extends BaseClient
 {
 
 }

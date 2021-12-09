@@ -4,7 +4,12 @@
 namespace Zyan\Fanyi\Provider;
 
 
-class Baidu
-{
+use Zyan\Fanyi\BaseClient;
 
+class Baidu extends BaseClient
+{
+    public function text(string $text): string
+    {
+
+    }
 }

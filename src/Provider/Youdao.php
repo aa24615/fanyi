@@ -4,7 +4,14 @@
 namespace Zyan\Fanyi\Provider;
 
 
-class Youdao
+use Zyan\Fanyi\BaseClient;
+
+
+class Youdao extends BaseClient
 {
 
+    public function text()
+    {
+
+    }
 }
